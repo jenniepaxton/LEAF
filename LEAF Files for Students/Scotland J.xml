@@ -1045,13 +1045,171 @@
 	"cwrc:hasPrecision": "cwrc:highCertainty"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?person_annotation_20241105160938811",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-05T21:09:38.811Z",
+	"dcterms:modified": "2024-11-05T21:09:38.811Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/jenniepaxton",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Jennie Paxton"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?person_annotation_20241105160938811#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?person_annotation_20241105160938811#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/308271762/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?date_annotation_20241105161005692",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-05T21:10:05.692Z",
+	"dcterms:modified": "2024-11-05T21:10:05.692Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/jenniepaxton",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Jennie Paxton"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?date_annotation_20241105161005692#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?date_annotation_20241105161005692#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1527/1598"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/10-Scotland-Ort-1.jpg"/>
 			<div>
 				<head>SCOTLAND.</head>
-				<p>THe realme of <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22" cert="high">Scotland<precision match="@ref" precision="high"/></placeName> hath <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName> on the ſouth ſyde therof &amp; on all other ſydes els, it is ennyroned with the maine <placeName key="Pacific Ocean" ref="http://dbpedia.org/resource/Pacific_Ocean" cert="high">Ocean<precision match="@ref" precision="low"/></placeName>, on the north ſyde it hath the Iles called the <placeName key="Orkney Islands" ref="http://www.wikidata.org/entity/Q100166" cert="high">Orcades<precision match="@ref" precision="high"/></placeName> &amp; on the weſt the [Hibrides], all ſubjećt vnto <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22">Scotland</placeName>. And albeit it bee not ſo frute full as <placeName key="England" ref="http://www.wikidata.org/entity/Q21" cert="high">England<precision match="@ref" precision="high"/></placeName>, yet is the land aboundantly furniſhed with cattel, &amp; the ſea with fiſh, &amp; in it are many thinges very ſtrange &amp; wounderfull.      In <placeName key="Glasgow" ref="http://dbpedia.org/resource/Glasgow">Glaſco</placeName> is a lake, one parte whereof frieſeth in winter but the other parte doth neuer firſe. In [Carik] are Oxen whoſe far is neuer hard, but alwayes ſoft &amp; oily.      In the prouince of <placeName cert="high" key="Kyle" ref="http://www.wikidata.org/entity/Q2918277">Coyl</placeName> or <placeName key="Kyle" ref="http://www.wikidata.org/entity/Q2918277" cert="high">Kyle<precision match="@ref" precision="high"/></placeName> about ten myles from the towne of <placeName key="Ayr" ref="http://www.wikidata.org/entity/Q654216">Aer</placeName> here is a ſtone 12 foote in height &amp; 30 in length called the deaf ſtone, for albeit neuer ſo great noiſe bee made on the one ſyde, on the other ſyde it cannot bee heard, vnieffe a man ſtand farr of, for ſo may it bee deſcerned, or els not.      In <placeName key="Lennox" ref="http://www.wikidata.org/entity/Q4591828">Lennox</placeName> is a lake called <placeName cert="high" key="Loch Lomond" ref="http://www.wikidata.org/entity/Q208926">Lawmond</placeName> beeing about 14 myles in length &amp; 8 in bredth having in it thirty Iles, in this lake are three thinges woorthy of note. There are finleſſ ſiſhes, &amp; of a good taſte. There are fleeting Iles that with thee wynde are moued &amp; driuen to &amp; fro, And ſomtymes no wynde blowing, the water becometh ſo rough that the paſſengers are in great danger to bee drowned yf they cannot ſpeedely get to land. In <placeName key="Arcadia" ref="http://dbpedia.org/resource/Arcadia" cert="medium">Argadia</placeName> (as is reported) groweth a ſtone which beeing put to ſtraw or ſtubble wil kindle &amp; ſet the ſame on fyre.      In <placeName cert="medium" key="Burnham-on-Sea" ref="http://www.wikidata.org/entity/Q1247822">Burquham</placeName> is a caue wherein water falling it turneth into whyte ſtones, &amp; in this prouince no rattes are found. In the ſea at the mouth of the riuer of <placeName key="River Forth" ref="http://www.wikidata.org/entity/Q2421" cert="high">Forth<precision match="@ref" precision="high"/></placeName> is a high rock out of the top whereof iſſueth a fountaine of freſhe water. About 10 myles from <placeName><placeName key="Edinburgh" ref="http://www.wikidata.org/entity/Q23436">Edenbourgh</placeName></placeName> is a fountaine, on the water whereof drops of oyle are fonud, the which oile is medicinable. In <placeName cert="high" key="Clydesdale (Scotland)" ref="http://viaf.org/viaf/124409340/">Clidiſdale</placeName> is a <placeName key="Clydesdale Mine" ref="http://vocab.getty.edu/tgn/2245459">myne</placeName> of <rs key="gold" ref="http://www.wikidata.org/entity/Q897" cert="high">Gold</rs>, &amp; another of azure, and in the <rs cert="high" key="mussel" ref="http://www.wikidata.org/entity/Q13042834">muſcles</rs> an <rs cert="high" key="shellfish" ref="http://www.wikidata.org/entity/Q6501235">ſhelfiſh</rs> on the ſhore of <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22" cert="high">Scotland<precision match="@ref" precision="high"/></placeName> pearles are found. </p><p>Ortelius, Abraham, 1527-1598. An epitome of Ortelius his Theater of the vvorld, vvherein the principal regions of the earth are descrived in smalle mappes. VVith a brief declaration annexed to ech mappe. And donne in more exact manner, then lyke declarations in Latin, French, or other languages. It is also amplyfied with new mappes wanting in the Latin editions. Antwerp: Iohn Norton, 1601. STC 18857. ProQuest, https://www.proquest.com/books/epitome-ortelius-his-theater-vvorld-vvherein/docview/2240904399/se-2. </p></div>
+				<p>THe realme of <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22" cert="high">Scotland<precision match="@ref" precision="high"/></placeName> hath <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName> on the ſouth ſyde therof &amp; on all other ſydes els, it is ennyroned with the maine <placeName key="Pacific Ocean" ref="http://dbpedia.org/resource/Pacific_Ocean" cert="high">Ocean<precision match="@ref" precision="low"/></placeName>, on the north ſyde it hath the Iles called the <placeName key="Orkney Islands" ref="http://www.wikidata.org/entity/Q100166" cert="high">Orcades<precision match="@ref" precision="high"/></placeName> &amp; on the weſt the [Hibrides], all ſubjećt vnto <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22">Scotland</placeName>. And albeit it bee not ſo frute full as <placeName key="England" ref="http://www.wikidata.org/entity/Q21" cert="high">England<precision match="@ref" precision="high"/></placeName>, yet is the land aboundantly furniſhed with cattel, &amp; the ſea with fiſh, &amp; in it are many thinges very ſtrange &amp; wounderfull.      In <placeName key="Glasgow" ref="http://dbpedia.org/resource/Glasgow">Glaſco</placeName> is a lake, one parte whereof frieſeth in winter but the other parte doth neuer firſe. In [Carik] are Oxen whoſe far is neuer hard, but alwayes ſoft &amp; oily.      In the prouince of <placeName cert="high" key="Kyle" ref="http://www.wikidata.org/entity/Q2918277">Coyl</placeName> or <placeName key="Kyle" ref="http://www.wikidata.org/entity/Q2918277" cert="high">Kyle<precision match="@ref" precision="high"/></placeName> about ten myles from the towne of <placeName key="Ayr" ref="http://www.wikidata.org/entity/Q654216">Aer</placeName> here is a ſtone 12 foote in height &amp; 30 in length called the deaf ſtone, for albeit neuer ſo great noiſe bee made on the one ſyde, on the other ſyde it cannot bee heard, vnieffe a man ſtand farr of, for ſo may it bee deſcerned, or els not.      In <placeName key="Lennox" ref="http://www.wikidata.org/entity/Q4591828">Lennox</placeName> is a lake called <placeName cert="high" key="Loch Lomond" ref="http://www.wikidata.org/entity/Q208926">Lawmond</placeName> beeing about 14 myles in length &amp; 8 in bredth having in it thirty Iles, in this lake are three thinges woorthy of note. There are finleſſ ſiſhes, &amp; of a good taſte. There are fleeting Iles that with thee wynde are moued &amp; driuen to &amp; fro, And ſomtymes no wynde blowing, the water becometh ſo rough that the paſſengers are in great danger to bee drowned yf they cannot ſpeedely get to land. In <placeName key="Arcadia" ref="http://dbpedia.org/resource/Arcadia" cert="medium">Argadia</placeName> (as is reported) groweth a ſtone which beeing put to ſtraw or ſtubble wil kindle &amp; ſet the ſame on fyre.      In <placeName cert="medium" key="Burnham-on-Sea" ref="http://www.wikidata.org/entity/Q1247822">Burquham</placeName> is a caue wherein water falling it turneth into whyte ſtones, &amp; in this prouince no rattes are found. In the ſea at the mouth of the riuer of <placeName key="River Forth" ref="http://www.wikidata.org/entity/Q2421" cert="high">Forth<precision match="@ref" precision="high"/></placeName> is a high rock out of the top whereof iſſueth a fountaine of freſhe water. About 10 myles from <placeName><placeName key="Edinburgh" ref="http://www.wikidata.org/entity/Q23436">Edenbourgh</placeName></placeName> is a fountaine, on the water whereof drops of oyle are fonud, the which oile is medicinable. In <placeName cert="high" key="Clydesdale (Scotland)" ref="http://viaf.org/viaf/124409340/">Clidiſdale</placeName> is a <placeName key="Clydesdale Mine" ref="http://vocab.getty.edu/tgn/2245459">myne</placeName> of <rs key="gold" ref="http://www.wikidata.org/entity/Q897" cert="high">Gold</rs>, &amp; another of azure, and in the <rs cert="high" key="mussel" ref="http://www.wikidata.org/entity/Q13042834">muſcles</rs> an <rs cert="high" key="shellfish" ref="http://www.wikidata.org/entity/Q6501235">ſhelfiſh</rs> on the ſhore of <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22" cert="high">Scotland<precision match="@ref" precision="high"/></placeName> pearles are found. </p><p><persName key="Ortelius, Abraham, Flemish, 1527-1598" ref="http://viaf.org/viaf/308271762/" cert="high" type="real">Ortelius, Abraham</persName>, <date from="1527" to="1598" cert="high">1527-1598</date>. An epitome of Ortelius his Theater of the vvorld, vvherein the principal regions of the earth are descrived in smalle mappes. VVith a brief declaration annexed to ech mappe. And donne in more exact manner, then lyke declarations in Latin, French, or other languages. It is also amplyfied with new mappes wanting in the Latin editions. Antwerp: Iohn Norton, 1601. STC 18857. ProQuest, https://www.proquest.com/books/epitome-ortelius-his-theater-vvorld-vvherein/docview/2240904399/se-2. </p></div>
 		</body>
 	</text>
 </TEI>
