@@ -761,10 +761,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241105152313146",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145357777",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:23:13.146Z",
-	"dcterms:modified": "2024-11-07T19:53:57.777Z",
+	"dcterms:created": "2024-11-07T19:53:57.777Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -775,7 +774,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241105152313146#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145357777#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -789,7 +788,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241105152313146#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145357777#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[3]"
 		}
@@ -921,10 +920,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241105154049187",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145130224",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-05T20:40:49.187Z",
-	"dcterms:modified": "2024-11-07T19:51:30.224Z",
+	"dcterms:created": "2024-11-07T19:51:30.224Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -935,7 +933,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241105154049187#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145130224#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -949,7 +947,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241105154049187#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145130224#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[27]"
 		}
@@ -1557,10 +1555,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106165854110",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145302947",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T21:58:54.110Z",
-	"dcterms:modified": "2024-11-07T19:53:02.947Z",
+	"dcterms:created": "2024-11-07T19:53:02.947Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -1571,7 +1568,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106165854110#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145302947#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -1585,7 +1582,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106165854110#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145302947#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[14]"
 		}
@@ -1638,10 +1635,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106165914217",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145311631",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T21:59:14.217Z",
-	"dcterms:modified": "2024-11-07T19:53:11.631Z",
+	"dcterms:created": "2024-11-07T19:53:11.631Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -1652,7 +1648,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106165914217#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145311631#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -1666,7 +1662,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106165914217#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145311631#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[12]"
 		}
@@ -1719,10 +1715,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106170720987",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145348715",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:07:20.987Z",
-	"dcterms:modified": "2024-11-07T19:53:48.715Z",
+	"dcterms:created": "2024-11-07T19:53:48.715Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -1733,7 +1728,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106170720987#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145348715#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -1747,7 +1742,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106170720987#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145348715#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[5]"
 		}
@@ -1880,10 +1875,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106170828923",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145353338",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:08:28.923Z",
-	"dcterms:modified": "2024-11-07T19:53:53.338Z",
+	"dcterms:created": "2024-11-07T19:53:53.338Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -1894,7 +1888,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106170828923#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145353338#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -1908,7 +1902,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106170828923#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145353338#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[4]"
 		}
@@ -2039,10 +2033,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171131746",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145221882",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:11:31.746Z",
-	"dcterms:modified": "2024-11-07T19:52:21.882Z",
+	"dcterms:created": "2024-11-07T19:52:21.882Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -2053,7 +2046,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171131746#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145221882#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -2067,7 +2060,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171131746#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145221882#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[18]"
 		}
@@ -2197,10 +2190,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241106171154986",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241107145217123",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:11:54.986Z",
-	"dcterms:modified": "2024-11-07T19:52:17.123Z",
+	"dcterms:created": "2024-11-07T19:52:17.123Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -2211,7 +2203,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241106171154986#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241107145217123#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -2225,7 +2217,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241106171154986#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241107145217123#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[7]"
 		}
@@ -2277,10 +2269,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171301988",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145208488",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:13:01.988Z",
-	"dcterms:modified": "2024-11-07T19:52:08.488Z",
+	"dcterms:created": "2024-11-07T19:52:08.488Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -2291,7 +2282,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171301988#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145208488#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -2305,7 +2296,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171301988#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145208488#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[21]"
 		}
@@ -2357,10 +2348,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171330541",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145200539",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:13:30.541Z",
-	"dcterms:modified": "2024-11-07T19:52:00.539Z",
+	"dcterms:created": "2024-11-07T19:52:00.539Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -2371,7 +2361,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171330541#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145200539#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -2385,7 +2375,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171330541#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145200539#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[23]"
 		}
@@ -2438,10 +2428,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171346174",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145156553",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:13:46.174Z",
-	"dcterms:modified": "2024-11-07T19:51:56.553Z",
+	"dcterms:created": "2024-11-07T19:51:56.553Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -2452,7 +2441,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171346174#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145156553#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -2466,7 +2455,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171346174#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145156553#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[24]"
 		}
@@ -2518,10 +2507,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171423971",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145150400",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:14:23.971Z",
-	"dcterms:modified": "2024-11-07T19:51:50.400Z",
+	"dcterms:created": "2024-11-07T19:51:50.400Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -2532,7 +2520,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171423971#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145150400#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -2546,7 +2534,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171423971#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145150400#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[25]"
 		}
@@ -2599,10 +2587,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241106171538463",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241107145139282",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:15:38.463Z",
-	"dcterms:modified": "2024-11-07T19:51:39.282Z",
+	"dcterms:created": "2024-11-07T19:51:39.282Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -2613,7 +2600,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241106171538463#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241107145139282#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -2627,7 +2614,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241106171538463#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241107145139282#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[11]"
 		}
@@ -2679,10 +2666,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171808494",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145120299",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:18:08.494Z",
-	"dcterms:modified": "2024-11-07T19:51:20.299Z",
+	"dcterms:created": "2024-11-07T19:51:20.299Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -2693,7 +2679,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171808494#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145120299#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -2707,7 +2693,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106171808494#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145120299#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[26]"
 		}
@@ -2758,10 +2744,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241106171819558",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241107145111303",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:18:19.558Z",
-	"dcterms:modified": "2024-11-07T19:51:11.303Z",
+	"dcterms:created": "2024-11-07T19:51:11.303Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -2772,7 +2757,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241106171819558#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241107145111303#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -2786,7 +2771,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241106171819558#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241107145111303#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[12]"
 		}
@@ -2837,10 +2822,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241106172001006",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241107145049786",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:20:01.006Z",
-	"dcterms:modified": "2024-11-07T19:50:49.786Z",
+	"dcterms:created": "2024-11-07T19:50:49.786Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -2851,7 +2835,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241106172001006#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241107145049786#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -2865,7 +2849,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241106172001006#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?rs_annotation_20241107145049786#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/rs[14]"
 		}
@@ -2917,10 +2901,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106172201971",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145017198",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:22:01.971Z",
-	"dcterms:modified": "2024-11-07T19:50:17.198Z",
+	"dcterms:created": "2024-11-07T19:50:17.198Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -2931,7 +2914,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106172201971#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145017198#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -2945,7 +2928,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106172201971#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107145017198#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[30]"
 		}
@@ -3234,10 +3217,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106172808643",
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107144905310",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-11-06T22:28:08.643Z",
-	"dcterms:modified": "2024-11-07T19:49:05.310Z",
+	"dcterms:created": "2024-11-07T19:49:05.310Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/jenniepaxton",
 		"@type": [
@@ -3248,7 +3230,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106172808643#Target",
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107144905310#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
@@ -3262,7 +3244,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241106172808643#Selector",
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?place_annotation_20241107144905310#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[36]"
 		}
@@ -3441,13 +3423,93 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?person_annotation_20241107160240848",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-11-07T21:02:40.848Z",
+	"dcterms:modified": "2024-11-07T21:02:40.848Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/jenniepaxton",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Jennie Paxton"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?person_annotation_20241107160240848#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/jenniepaxton/LEAF/main/LEAF%20Files%20for%20Students/Scotland%20J.xml?person_annotation_20241107160240848#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/persName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://viaf.org/viaf/54061768/",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<pb facs="https://raw.githubusercontent.com/kmabennett/LEAF/refs/heads/main/10-Scotland-Ort-1.jpg"/>
 			<div>
 				<head><placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22">SCOTLAND</placeName>.</head>
-				<p>THe realme of <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22" cert="high">Scotland<precision match="@ref" precision="high"/></placeName> hath <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName> on the ſouth ſyde therof &amp; on all other ſydes els, it is ennyroned with the maine <placeName key="Pacific Ocean" ref="http://dbpedia.org/resource/Pacific_Ocean" cert="high">Ocean<precision match="@ref" precision="medium"/></placeName>, on the <placeName key="north" ref="http://www.wikidata.org/entity/Q659" cert="high">north</placeName> ſyde it hath the <placeName key="island" ref="http://www.wikidata.org/entity/Q23442" cert="high">Iles<precision match="@ref" precision="medium"/></placeName> called the <placeName key="Orkney Islands" ref="http://www.wikidata.org/entity/Q100166" cert="high">Orcades<precision match="@ref" precision="high"/></placeName> &amp; on the <placeName key="west" ref="http://www.wikidata.org/entity/Q679">weſt<precision match="@ref" precision="low"/></placeName> the <placeName cert="high" key="Hebrides" ref="http://www.wikidata.org/entity/Q123377">Hibrides</placeName>, all ſubjećt vnto <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22">Scotland</placeName>. And albeit it bee not ſo frute full as <placeName key="England" ref="http://www.wikidata.org/entity/Q21" cert="high">England<precision match="@ref" precision="high"/></placeName>, yet is the <placeName key="land" ref="http://www.wikidata.org/entity/Q11081619">land</placeName> aboundantly furniſhed with <rs key="Cattle" ref="http://dbpedia.org/resource/Cattle">cattel</rs>, &amp; the <placeName key="sea" ref="http://www.wikidata.org/entity/Q165" cert="high">ſea<precision match="@ref" precision="medium"/></placeName> with <rs key="fish" ref="http://www.wikidata.org/entity/Q152" cert="high">fiſh</rs>, &amp; in it are many thinges very ſtrange &amp; wounderfull.      In <placeName key="Glasgow" ref="http://dbpedia.org/resource/Glasgow">Glaſco</placeName> is a <placeName key="lake" ref="http://www.wikidata.org/entity/Q23397" cert="high">lake<precision match="@ref" precision="medium"/></placeName>, one parte whereof frieſeth in <rs key="winter" ref="http://www.wikidata.org/entity/Q1311">winter</rs> but the other parte doth neuer friſe. In <placeName cert="high" key="Carrick" ref="http://www.wikidata.org/entity/Q4216038">Carik</placeName> are <rs key="ox" ref="http://www.wikidata.org/entity/Q473194">Oxen</rs> whoſe <rs cert="high" key="fur" ref="http://www.wikidata.org/entity/Q197204">far</rs> is neuer hard, but alwayes ſoft &amp; oily.      In the prouince of <placeName cert="high" key="Kyle" ref="http://www.wikidata.org/entity/Q2918277">Coyl</placeName> or <placeName key="Kyle" ref="http://www.wikidata.org/entity/Q2918277" cert="high">Kyle<precision match="@ref" precision="high"/></placeName> about ten myles from the <placeName key="Town" ref="http://dbpedia.org/resource/Town">towne<precision match="@ref" precision="medium"/></placeName> of <placeName key="Ayr" ref="http://www.wikidata.org/entity/Q654216">Aer</placeName> here is a <rs key="stone" ref="http://www.wikidata.org/entity/Q22731">ſtone</rs> 12 foote in height &amp; 30 in length called the deaf <rs key="stone" ref="http://www.wikidata.org/entity/Q22731" cert="high">ſtone</rs>, for albeit neuer ſo great noiſe bee made on the one ſyde, on the other ſyde it cannot bee heard, vnieffe a man ſtand farr of, for ſo may it bee deſcerned, or els not.      In <placeName key="Lennox" ref="http://www.wikidata.org/entity/Q4591828">Lennox</placeName> is a <placeName key="lake" ref="http://www.wikidata.org/entity/Q23397" cert="high">lake</placeName> called <placeName cert="high" key="Loch Lomond" ref="http://www.wikidata.org/entity/Q208926">Lawmond</placeName> beeing about 14 myles in length &amp; 8 in bredth having in it thirty <placeName key="island" ref="http://www.wikidata.org/entity/Q23442" cert="high">Iles<precision match="@ref" precision="medium"/></placeName>, in this <placeName key="lake" ref="http://www.wikidata.org/entity/Q23397">lake<precision match="@ref" precision="medium"/></placeName> are three thinges woorthy of note. There are finleſſ <rs key="fish" ref="http://www.wikidata.org/entity/Q152">ſiſhes</rs>, &amp; of a good taſte. There are fleeting <placeName key="island" ref="http://www.wikidata.org/entity/Q23442" cert="high">Iles<precision match="@ref" precision="medium"/></placeName> that with thee <rs cert="high" key="wind" ref="http://www.wikidata.org/entity/Q8094">wynde</rs> are moued &amp; driuen to &amp; fro, And ſomtymes no <rs key="wind" ref="http://www.wikidata.org/entity/Q8094">wynde</rs> blowing, the <rs key="water" ref="http://www.wikidata.org/entity/Q283" cert="high">water</rs> becometh ſo rough that the paſſengers are in great danger to bee drowned yf they cannot ſpeedely get to <placeName key="land" ref="http://www.wikidata.org/entity/Q11081619">land</placeName>. In <placeName key="Arcadia" ref="http://dbpedia.org/resource/Arcadia" cert="medium">Argadia<precision match="@ref" precision="high"/></placeName> (as is reported) groweth a <rs key="stone" ref="http://www.wikidata.org/entity/Q22731">ſtone</rs> which beeing put to ſtraw or ſtubble wil kindle &amp; ſet the ſame on <rs cert="high" key="fire" ref="http://www.wikidata.org/entity/Q3196"><rs cert="high" key="fire" ref="http://www.wikidata.org/entity/Q3196"><rs cert="high" key="fire" ref="http://www.wikidata.org/entity/Q3196">fyre</rs></rs></rs>.      In <placeName cert="medium" key="Burnham-on-Sea" ref="http://www.wikidata.org/entity/Q1247822">Burquham</placeName> is a <placeName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="cave" ref="http://www.wikidata.org/entity/Q35509">caue</placeName> wherein <rs key="water" ref="http://www.wikidata.org/entity/Q283" cert="high">water</rs> falling it turneth into whyte <rs cert="high" key="stone" ref="http://www.wikidata.org/entity/Q22731"><rs cert="high" key="stone" ref="http://www.wikidata.org/entity/Q22731">ſtones</rs></rs>, &amp; in this prouince no <rs key="Rats" ref="http://www.wikidata.org/entity/Q36396">rattes</rs> are found. In the <placeName key="sea" ref="http://www.wikidata.org/entity/Q165" cert="high">ſea<precision match="@ref" precision="medium"/></placeName> at the mouth of the <placeName key="river" ref="http://www.wikidata.org/entity/Q4022">riuer</placeName> of <placeName key="River Forth" ref="http://www.wikidata.org/entity/Q2421" cert="high">Forth<precision match="@ref" precision="high"/></placeName> is a high <rs key="stone" ref="http://www.wikidata.org/entity/Q22731" cert="high">rock</rs> out of the top whereof iſſueth a fountaine of freſhe <rs key="water" ref="http://www.wikidata.org/entity/Q283" cert="high">water</rs>. About 10 myles from <placeName><placeName key="Edinburgh" ref="http://www.wikidata.org/entity/Q23436">Edenbourgh</placeName></placeName> is a fountaine, on the <rs key="water" ref="http://www.wikidata.org/entity/Q283">water</rs> whereof drops of <rs cert="medium" key="oil" ref="http://www.wikidata.org/entity/Q42962"><rs cert="high" key="oil" ref="http://www.wikidata.org/entity/Q42962">oyle</rs></rs> are fonud, the which <rs key="oil" ref="http://www.wikidata.org/entity/Q42962">oile</rs> is medicinable. In <placeName cert="high" key="Clydesdale (Scotland)" ref="http://viaf.org/viaf/124409340/">Clidiſdale</placeName> is a <placeName key="Clydesdale Mine" ref="http://vocab.getty.edu/tgn/2245459">myne</placeName> of <rs key="gold" ref="http://www.wikidata.org/entity/Q897" cert="high">Gold</rs>, &amp; another of azure, and in the <rs cert="high" key="mussel" ref="http://www.wikidata.org/entity/Q13042834">muſcles</rs> and <rs cert="high" key="shellfish" ref="http://www.wikidata.org/entity/Q6501235">ſhelfiſh</rs> on the <placeName key="shore" ref="http://www.wikidata.org/entity/Q468756" cert="high">ſhore<precision match="@ref" precision="medium"/></placeName> of <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22" cert="high">Scotland<precision match="@ref" precision="high"/></placeName> <rs cert="high" key="Pearl" ref="http://dbpedia.org/resource/Pearl">pearles</rs> are found. </p><p><persName key="Ortelius, Abraham, Flemish, 1527-1598" ref="http://viaf.org/viaf/308271762/" cert="high" type="real">Ortelius, Abraham</persName>, <date from="1527" to="1598" cert="high">1527-1598</date>. <title cert="high">An epitome of Ortelius his Theater of the vvorld, vvherein the principal regions of the earth are descrived in smalle mappes. VVith a brief declaration annexed to ech mappe. And donne in more exact manner, then lyke declarations in Latin, French, or other languages. It is also amplyfied with new mappes wanting in the Latin editions. Antwerp:</title> Iohn Norton, 1601. STC 18857. ProQuest, <ref target="https://www.proquest.com/books/epitome-ortelius-his-theater-vvorld-vvherein/docview/2240904399/se-2.">https://www.proquest.com/books/epitome-ortelius-his-theater-vvorld-vvherein/docview/2240904399/se-2.</ref> </p></div>
+				<p>THe realme of <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22" cert="high">Scotland<precision match="@ref" precision="high"/></placeName> hath <placeName key="England" ref="http://www.wikidata.org/entity/Q21">England</placeName> on the ſouth ſyde therof &amp; on all other ſydes els, it is ennyroned with the maine <placeName key="Pacific Ocean" ref="http://dbpedia.org/resource/Pacific_Ocean" cert="high">Ocean<precision match="@ref" precision="medium"/></placeName>, on the <placeName key="north" ref="http://www.wikidata.org/entity/Q659" cert="high">north</placeName> ſyde it hath the <placeName key="island" ref="http://www.wikidata.org/entity/Q23442" cert="high">Iles<precision match="@ref" precision="medium"/></placeName> called the <placeName key="Orkney Islands" ref="http://www.wikidata.org/entity/Q100166" cert="high">Orcades<precision match="@ref" precision="high"/></placeName> &amp; on the <placeName key="west" ref="http://www.wikidata.org/entity/Q679">weſt<precision match="@ref" precision="low"/></placeName> the <placeName cert="high" key="Hebrides" ref="http://www.wikidata.org/entity/Q123377">Hibrides</placeName>, all ſubjećt vnto <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22">Scotland</placeName>. And albeit it bee not ſo frute full as <placeName key="England" ref="http://www.wikidata.org/entity/Q21" cert="high">England<precision match="@ref" precision="high"/></placeName>, yet is the <placeName key="land" ref="http://www.wikidata.org/entity/Q11081619">land</placeName> aboundantly furniſhed with <rs key="Cattle" ref="http://dbpedia.org/resource/Cattle">cattel</rs>, &amp; the <placeName key="sea" ref="http://www.wikidata.org/entity/Q165" cert="high">ſea<precision match="@ref" precision="medium"/></placeName> with <rs key="fish" ref="http://www.wikidata.org/entity/Q152" cert="high">fiſh</rs>, &amp; in it are many thinges very ſtrange &amp; wounderfull.      In <placeName key="Glasgow" ref="http://dbpedia.org/resource/Glasgow">Glaſco</placeName> is a <placeName key="lake" ref="http://www.wikidata.org/entity/Q23397" cert="high">lake<precision match="@ref" precision="medium"/></placeName>, one parte whereof frieſeth in <rs key="winter" ref="http://www.wikidata.org/entity/Q1311">winter</rs> but the other parte doth neuer friſe. In <placeName cert="high" key="Carrick" ref="http://www.wikidata.org/entity/Q4216038">Carik</placeName> are <rs key="ox" ref="http://www.wikidata.org/entity/Q473194">Oxen</rs> whoſe <rs cert="high" key="fur" ref="http://www.wikidata.org/entity/Q197204">far</rs> is neuer hard, but alwayes ſoft &amp; oily.      In the prouince of <placeName cert="high" key="Kyle" ref="http://www.wikidata.org/entity/Q2918277">Coyl</placeName> or <placeName key="Kyle" ref="http://www.wikidata.org/entity/Q2918277" cert="high">Kyle<precision match="@ref" precision="high"/></placeName> about ten myles from the <placeName key="Town" ref="http://dbpedia.org/resource/Town">towne<precision match="@ref" precision="medium"/></placeName> of <placeName key="Ayr" ref="http://www.wikidata.org/entity/Q654216">Aer</placeName> here is a <rs key="stone" ref="http://www.wikidata.org/entity/Q22731">ſtone</rs> 12 foote in height &amp; 30 in length called the deaf <rs key="stone" ref="http://www.wikidata.org/entity/Q22731" cert="high">ſtone</rs>, for albeit neuer ſo great noiſe bee made on the one ſyde, on the other ſyde it cannot bee heard, vnieffe a man ſtand farr of, for ſo may it bee deſcerned, or els not.      In <placeName key="Lennox" ref="http://www.wikidata.org/entity/Q4591828">Lennox</placeName> is a <placeName key="lake" ref="http://www.wikidata.org/entity/Q23397" cert="high">lake</placeName> called <placeName cert="high" key="Loch Lomond" ref="http://www.wikidata.org/entity/Q208926">Lawmond</placeName> beeing about 14 myles in length &amp; 8 in bredth having in it thirty <placeName key="island" ref="http://www.wikidata.org/entity/Q23442" cert="high">Iles<precision match="@ref" precision="medium"/></placeName>, in this <placeName key="lake" ref="http://www.wikidata.org/entity/Q23397">lake<precision match="@ref" precision="medium"/></placeName> are three thinges woorthy of note. There are finleſſ <rs key="fish" ref="http://www.wikidata.org/entity/Q152">ſiſhes</rs>, &amp; of a good taſte. There are fleeting <placeName key="island" ref="http://www.wikidata.org/entity/Q23442" cert="high">Iles<precision match="@ref" precision="medium"/></placeName> that with thee <rs cert="high" key="wind" ref="http://www.wikidata.org/entity/Q8094">wynde</rs> are moued &amp; driuen to &amp; fro, And ſomtymes no <rs key="wind" ref="http://www.wikidata.org/entity/Q8094">wynde</rs> blowing, the <rs key="water" ref="http://www.wikidata.org/entity/Q283" cert="high">water</rs> becometh ſo rough that the paſſengers are in great danger to bee drowned yf they cannot ſpeedely get to <placeName key="land" ref="http://www.wikidata.org/entity/Q11081619">land</placeName>. In <placeName key="Arcadia" ref="http://dbpedia.org/resource/Arcadia" cert="medium">Argadia<precision match="@ref" precision="high"/></placeName> (as is reported) groweth a <rs key="stone" ref="http://www.wikidata.org/entity/Q22731">ſtone</rs> which beeing put to ſtraw or ſtubble wil kindle &amp; ſet the ſame on <rs cert="high" key="fire" ref="http://www.wikidata.org/entity/Q3196"><rs cert="high" key="fire" ref="http://www.wikidata.org/entity/Q3196"><rs cert="high" key="fire" ref="http://www.wikidata.org/entity/Q3196">fyre</rs></rs></rs>.      In <placeName cert="medium" key="Burnham-on-Sea" ref="http://www.wikidata.org/entity/Q1247822">Burquham</placeName> is a <placeName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default" key="cave" ref="http://www.wikidata.org/entity/Q35509">caue</placeName> wherein <rs key="water" ref="http://www.wikidata.org/entity/Q283" cert="high">water</rs> falling it turneth into whyte <rs cert="high" key="stone" ref="http://www.wikidata.org/entity/Q22731"><rs cert="high" key="stone" ref="http://www.wikidata.org/entity/Q22731">ſtones</rs></rs>, &amp; in this prouince no <rs key="Rats" ref="http://www.wikidata.org/entity/Q36396">rattes</rs> are found. In the <placeName key="sea" ref="http://www.wikidata.org/entity/Q165" cert="high">ſea<precision match="@ref" precision="medium"/></placeName> at the mouth of the <placeName key="river" ref="http://www.wikidata.org/entity/Q4022">riuer</placeName> of <placeName key="River Forth" ref="http://www.wikidata.org/entity/Q2421" cert="high">Forth<precision match="@ref" precision="high"/></placeName> is a high <rs key="stone" ref="http://www.wikidata.org/entity/Q22731" cert="high">rock</rs> out of the top whereof iſſueth a fountaine of freſhe <rs key="water" ref="http://www.wikidata.org/entity/Q283" cert="high">water</rs>. About 10 myles from <placeName><placeName key="Edinburgh" ref="http://www.wikidata.org/entity/Q23436">Edenbourgh</placeName></placeName> is a fountaine, on the <rs key="water" ref="http://www.wikidata.org/entity/Q283">water</rs> whereof drops of <rs cert="medium" key="oil" ref="http://www.wikidata.org/entity/Q42962"><rs cert="high" key="oil" ref="http://www.wikidata.org/entity/Q42962">oyle</rs></rs> are fonud, the which <rs key="oil" ref="http://www.wikidata.org/entity/Q42962">oile</rs> is medicinable. In <placeName cert="high" key="Clydesdale (Scotland)" ref="http://viaf.org/viaf/124409340/">Clidiſdale</placeName> is a <placeName key="Clydesdale Mine" ref="http://vocab.getty.edu/tgn/2245459">myne</placeName> of <rs key="gold" ref="http://www.wikidata.org/entity/Q897" cert="high">Gold</rs>, &amp; another of azure, and in the <rs cert="high" key="mussel" ref="http://www.wikidata.org/entity/Q13042834">muſcles</rs> and <rs cert="high" key="shellfish" ref="http://www.wikidata.org/entity/Q6501235">ſhelfiſh</rs> on the <placeName key="shore" ref="http://www.wikidata.org/entity/Q468756" cert="high">ſhore<precision match="@ref" precision="medium"/></placeName> of <placeName key="Scotland" ref="http://www.wikidata.org/entity/Q22" cert="high">Scotland<precision match="@ref" precision="high"/></placeName> <rs cert="high" key="Pearl" ref="http://dbpedia.org/resource/Pearl">pearles</rs> are found. </p><p><persName key="Ortelius, Abraham, Flemish, 1527-1598" ref="http://viaf.org/viaf/308271762/" cert="high" type="real">Ortelius, Abraham</persName>, <date from="1527" to="1598" cert="high">1527-1598</date>. An epitome of Ortelius his Theater of the vvorld, vvherein the principal regions of the earth are descrived in smalle mappes. VVith a brief declaration annexed to ech mappe. And donne in more exact manner, then lyke declarations in Latin, French, or other languages. It is also amplyfied with new mappes wanting in the Latin editions. Antwerp: <persName key="Norton, John, d. ca. 1640" ref="http://viaf.org/viaf/54061768/" cert="high" type="real">Iohn Norton</persName>, 1601. STC 18857. ProQuest, <ref target="https://www.proquest.com/books/epitome-ortelius-his-theater-vvorld-vvherein/docview/2240904399/se-2.">https://www.proquest.com/books/epitome-ortelius-his-theater-vvorld-vvherein/docview/2240904399/se-2.</ref> </p></div>
 		</body>
 	</text>
 </TEI>
